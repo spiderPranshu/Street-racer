@@ -1,1 +1,2 @@
-# Street-racer
+# synchronousBallMovement
+Ball moving synchronously
